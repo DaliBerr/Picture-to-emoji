@@ -2,8 +2,6 @@ import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-# 根据你的主脚本文件名修改这里：
-# 假设你的主脚本叫 emojiMosaic.py，并且里面有一个 process(...) 函数
 from emojiMosaic import process
 
 
@@ -211,3 +209,4 @@ def run_gui():
 
 if __name__ == "__main__":
     run_gui()
+
